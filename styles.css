@@ -1,0 +1,25 @@
+body {
+    background-color: #FA8072;
+}
+
+h1, h3, p {
+    text-align: center;
+}
+
+.axis {
+    font: 15px Arial, sans-serif;
+}
+
+.graph-svg-component {
+    background-color: rgb(255, 237, 237);
+    display: block;
+    margin: auto;
+    font-family: Arial, sans-serif;
+}
+
+.axis path, .axis line {
+    fill: none;
+    stroke: #3A3A3A;
+}
+
+
